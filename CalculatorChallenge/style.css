@@ -1,0 +1,22 @@
+* {
+    font-size: 30px;
+    text-align: center;
+}
+
+button {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+span {
+    display: inline-block;
+}
+
+#num1-el,
+#num2-el {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+}
